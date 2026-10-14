@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Mohamed Samir
+## 💜 Hey, I'm Mohamed Samir
 
 ### 💻 Full-Stack Developer | 🚀 Digital Product Builder
 
@@ -114,4 +114,4 @@ I enjoy turning ideas into functional digital products with clean code, thoughtf
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1462067540808437760)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m7mds_dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-samir-76559b396/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](YOUR_TIKTOK_LINK)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@.prime11.1)
