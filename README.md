@@ -104,9 +104,7 @@ I enjoy turning ideas into functional digital products with clean code, thoughtf
 </p>
 
 <p>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m7mds-dev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
+  
 ---
 
 ## 🌐 Connect With Me
