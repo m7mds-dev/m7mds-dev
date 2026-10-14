@@ -111,23 +111,9 @@ I enjoy turning ideas into functional digital products with clean code, thoughtf
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Portfolio-8A2BE2?style=plastic&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.instagram.com/m7mds_dev/">
-    <img src="https://img.shields.io/badge/Instagram-m7mds__dev-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="YOUR_TIKTOK_LINK">
-    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=plastic&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://github.com/m7mds-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=plastic&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=vercel&logoColor=white)](https://m7mds-dev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1462067540808437760)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m7mds_dev/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](YOUR_TIKTOK_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
