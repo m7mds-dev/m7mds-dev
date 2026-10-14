@@ -101,6 +101,8 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=m7mds-dev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
