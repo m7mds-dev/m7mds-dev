@@ -83,7 +83,6 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator">
   <img src="https://img.shields.io/badge/After_Effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects">
   <img src="https://img.shields.io/badge/Premiere_Pro-%2300005B.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro">
-  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
 </p>
 
 ## 📊 GitHub Stats:
