@@ -21,7 +21,7 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
-### 🌐 Frontend
+###  Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
@@ -32,7 +32,7 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -44,7 +44,7 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
 </p>
 
-### 🗄️ Database
+###  Database
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -53,7 +53,7 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-### ☁️ Cloud & Deployment
+###  Cloud & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -63,7 +63,7 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7" alt="Netlify">
 </p>
 
-### 🔧 Tools & DevOps
+###  Tools & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -74,7 +74,7 @@ I enjoy building modern web experiences, exploring new technologies, and turning
   <img src="https://img.shields.io/badge/Windows_Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
 </p>
 
-### 🎨 Design Tools
+###  Design Tools
 
 <p>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
